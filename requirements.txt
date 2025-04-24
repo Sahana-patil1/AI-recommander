@@ -1,0 +1,5 @@
+pandas 
+scikit-surprise>=1.1.3
+fastapi 
+uvicorn
+numpy<2
