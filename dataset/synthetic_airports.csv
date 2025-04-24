@@ -1,0 +1,19 @@
+code,name,city,region,facilities,connectedTransport
+MEX,"Wallace, Howard and Dixon International Airport",Dakotahaven,Mexico,"['Restaurants', 'Shops', 'Lounge', 'Wi-Fi']","['Train', 'Bus']"
+YUL,"Blair, Gibson and Levine International Airport",Hicksville,Canada,"['Shops', 'Restaurants', 'Wi-Fi', 'Lounge']",['Bus']
+SJO,Rice Ltd International Airport,New Jacobmouth,Central America,"['Lounge', 'Shops', 'Restaurants']","['Bus', 'Taxi', 'Train']"
+SIN,Montoya-Gibson International Airport,Matthewbury,Asia,"['Restaurants', 'Shops', 'Wi-Fi', 'Lounge']","['Taxi', 'Bus', 'Train']"
+DEL,Martin-Rios International Airport,Katherineshire,Asia,"['Lounge', 'Restaurants', 'Shops', 'Wi-Fi']","['Bus', 'Taxi']"
+PTY,Jimenez Group International Airport,Lake Johnbury,Central America,"['Lounge', 'Restaurants']","['Train', 'Taxi']"
+FRA,Freeman-Gordon International Airport,East Melodymouth,Europe,"['Wi-Fi', 'Lounge', 'Shops', 'Restaurants']",['Taxi']
+DOH,Harris Inc International Airport,South Richard,Middle East,"['Lounge', 'Wi-Fi', 'Restaurants', 'Shops']","['Train', 'Bus']"
+JFK,Lin-Kelly International Airport,Rossburgh,US,"['Lounge', 'Wi-Fi']","['Taxi', 'Train']"
+YVR,"Fisher, Mendoza and Monroe International Airport",Shannontown,Canada,"['Shops', 'Wi-Fi', 'Restaurants', 'Lounge']","['Train', 'Bus', 'Taxi']"
+LHR,Jones Ltd International Airport,New Christopher,Europe,"['Lounge', 'Restaurants', 'Shops']","['Bus', 'Taxi', 'Train']"
+DXB,Brown-Daniel International Airport,Rogerschester,Middle East,"['Restaurants', 'Shops']",['Taxi']
+MIA,Rodriguez-Christensen International Airport,Reedhaven,US,"['Wi-Fi', 'Lounge', 'Restaurants', 'Shops']",['Taxi']
+CDG,"Martinez, Nelson and Holden International Airport",Mcdowellville,Europe,"['Shops', 'Wi-Fi']","['Bus', 'Train']"
+AMS,"Medina, Mueller and Webb International Airport",South Martinfurt,Europe,"['Lounge', 'Wi-Fi', 'Restaurants']","['Train', 'Taxi', 'Bus']"
+LAX,Hicks and Sons International Airport,Susanburgh,US,"['Lounge', 'Shops', 'Restaurants']",['Bus']
+CUN,Lopez-Christensen International Airport,Gregorystad,Mexico,"['Wi-Fi', 'Lounge', 'Restaurants', 'Shops']","['Taxi', 'Bus', 'Train']"
+HKG,Knox and Sons International Airport,South Patriciastad,Asia,"['Restaurants', 'Wi-Fi']",['Taxi']

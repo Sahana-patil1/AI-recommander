@@ -1,0 +1,139 @@
+airline,iataCode,onTimePerformance,customerRating,amenities,baggagePolicy
+ATA Airlines,TZ,0.9,4.9,"['Extra Legroom', 'Meals', 'In-Flight Entertainment', 'Wi-Fi']",No Free Bags
+Aeroflot Russian International Airlines,XX,0.84,3.8,"['Meals', 'Extra Legroom', 'In-Flight Entertainment', 'Wi-Fi']",No Free Bags
+Air Canada,AC,0.83,4.3,"['Meals', 'Extra Legroom']",2 Free Checked Bags
+Air China,CA,0.88,5.0,"['Wi-Fi', 'Extra Legroom', 'Meals', 'In-Flight Entertainment']",1 Free Checked Bag
+Air Europe,PE,0.8,3.4,"['Wi-Fi', 'In-Flight Entertainment', 'Extra Legroom']",2 Free Checked Bags
+Air France,AF,0.91,3.7,"['Meals', 'Extra Legroom']",No Free Bags
+Alaska Airlines,AS,0.93,3.2,"['Wi-Fi', 'In-Flight Entertainment', 'Meals', 'Extra Legroom']",No Free Bags
+Alitalia Airlines,AZ,0.74,4.0,"['In-Flight Entertainment', 'Wi-Fi']",1 Free Checked Bag
+"All Nippon Company Airways, Ltd.",NH,0.94,3.0,"['In-Flight Entertainment', 'Meals', 'Wi-Fi']",No Free Bags
+American Airlines,AA,0.94,3.9,"['Wi-Fi', 'Meals', 'Extra Legroom']",2 Free Checked Bags
+Asiana Airlines,OZ,0.95,4.8,"['Wi-Fi', 'Extra Legroom', 'Meals', 'In-Flight Entertainment']",No Free Bags
+British Airways,BA,0.77,5.0,"['In-Flight Entertainment', 'Wi-Fi', 'Meals', 'Extra Legroom']",No Free Bags
+Canadian Airlines,CP,0.91,5.0,"['In-Flight Entertainment', 'Extra Legroom', 'Wi-Fi']",1 Free Checked Bag
+Cathay Pacific,CX,0.71,3.2,"['Extra Legroom', 'Meals', 'In-Flight Entertainment', 'Wi-Fi']",2 Free Checked Bags
+Champion Air,MG,0.8,4.1,"['Extra Legroom', 'Meals', 'Wi-Fi']",No Free Bags
+China Airlines,CI,0.94,3.5,"['Extra Legroom', 'Meals']",1 Free Checked Bag
+"China Eastern Airlines, Inc",XX,0.83,3.2,"['Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment', 'Meals']",No Free Bags
+Delta Air Lines,DL,0.74,4.0,"['Extra Legroom', 'Wi-Fi', 'Meals', 'In-Flight Entertainment']",2 Free Checked Bags
+EVA Airways,BR,0.8,4.9,"['Wi-Fi', 'Meals']",2 Free Checked Bags
+Finnair,AY,0.9,4.1,"['In-Flight Entertainment', 'Extra Legroom', 'Meals', 'Wi-Fi']",2 Free Checked Bags
+Frontier Airlines,F9,0.74,4.2,"['Extra Legroom', 'In-Flight Entertainment']",2 Free Checked Bags
+Hawaiian Airlines,HA,0.77,3.5,"['In-Flight Entertainment', 'Wi-Fi', 'Meals']",No Free Bags
+Japan Airlines,JL,0.81,4.1,"['In-Flight Entertainment', 'Wi-Fi']",1 Free Checked Bag
+KLM Royal Dutch Airlines,KL,0.71,3.2,"['Extra Legroom', 'Meals', 'In-Flight Entertainment', 'Wi-Fi']",No Free Bags
+Korean Air Lines,KE,0.81,4.7,"['Meals', 'Wi-Fi', 'In-Flight Entertainment']",1 Free Checked Bag
+Lufthansa German Airlines,LH,0.8,4.9,"['Wi-Fi', 'Meals', 'Extra Legroom', 'In-Flight Entertainment']",No Free Bags
+Mexicana Airlines,MX,0.94,4.6,"['Meals', 'Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment']",1 Free Checked Bag
+Miami Air International,GL,0.85,4.4,"['Extra Legroom', 'Meals']",No Free Bags
+Midwest Airlines,YX,0.92,3.9,"['In-Flight Entertainment', 'Meals', 'Wi-Fi']",2 Free Checked Bags
+National Airlines,N7,0.83,4.3,"['Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment']",No Free Bags
+Northwest Airlines (became Delta),NW,0.88,4.7,"['Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment', 'Meals']",2 Free Checked Bags
+Philippine Airlines,PR,0.87,4.3,"['Extra Legroom', 'Wi-Fi', 'Meals', 'In-Flight Entertainment']",No Free Bags
+Reno Air,QQ,0.83,4.6,"['Meals', 'Extra Legroom', 'Wi-Fi']",2 Free Checked Bags
+Ryan International Airlines,RD,0.77,4.7,"['Meals', 'In-Flight Entertainment']",1 Free Checked Bag
+Singapore Airlines,SQ,0.74,4.2,"['In-Flight Entertainment', 'Meals']",2 Free Checked Bags
+SkyWest Airlines,OO,0.71,3.1,"['Extra Legroom', 'Meals', 'In-Flight Entertainment']",1 Free Checked Bag
+Sobelair Airlines,XX,0.91,3.4,"['Extra Legroom', 'Meals']",1 Free Checked Bag
+Southwest Airlines,WN,0.8,3.6,"['Wi-Fi', 'Meals', 'Extra Legroom', 'In-Flight Entertainment']",No Free Bags
+Sports Jet,XX,0.91,3.9,"['In-Flight Entertainment', 'Extra Legroom', 'Meals']",No Free Bags
+Star Air,S6,0.74,4.7,"['Meals', 'Extra Legroom']",2 Free Checked Bags
+Sun Country Airlines,SY,0.9,5.0,"['Meals', 'Extra Legroom']",2 Free Checked Bags
+Swissair,SR,0.85,4.4,"['Meals', 'Wi-Fi', 'Extra Legroom']",2 Free Checked Bags
+"TACA International Airlines, S.A.",TA,0.79,3.4,"['Meals', 'Wi-Fi', 'In-Flight Entertainment', 'Extra Legroom']",No Free Bags
+TWA,TW,0.77,4.0,"['Wi-Fi', 'Extra Legroom', 'In-Flight Entertainment', 'Meals']",1 Free Checked Bag
+Tower Air,FF,0.9,4.8,"['Extra Legroom', 'In-Flight Entertainment', 'Meals', 'Wi-Fi']",No Free Bags
+Trans States Airlines,AX,0.79,4.1,"['In-Flight Entertainment', 'Wi-Fi', 'Extra Legroom', 'Meals']",1 Free Checked Bag
+US Airways,US,0.93,4.4,"['Meals', 'Wi-Fi', 'Extra Legroom']",2 Free Checked Bags
+United Airlines,UA,0.93,4.5,"['Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment']",2 Free Checked Bags
+United Airlines - Pre 07/01/2013,UA,0.83,3.1,"['In-Flight Entertainment', 'Meals', 'Extra Legroom', 'Wi-Fi']",No Free Bags
+Virgin Atlantic,VS,0.93,3.6,"['Extra Legroom', 'In-Flight Entertainment', 'Wi-Fi', 'Meals']",2 Free Checked Bags
+North American Airlines,XX,0.78,4.3,"['In-Flight Entertainment', 'Extra Legroom', 'Wi-Fi', 'Meals']",1 Free Checked Bag
+Allegiant Air,G4,0.79,4.7,"['Wi-Fi', 'In-Flight Entertainment', 'Meals']",2 Free Checked Bags
+Sports Hawk,XX,0.89,4.6,"['Meals', 'In-Flight Entertainment', 'Wi-Fi', 'Extra Legroom']",2 Free Checked Bags
+Allegro Airlines,XX,0.91,4.6,"['Wi-Fi', 'Meals']",2 Free Checked Bags
+Tradewinds Airlines,WI,0.88,3.7,"['Extra Legroom', 'Meals', 'In-Flight Entertainment']",2 Free Checked Bags
+Vanguard Airlines,NJ,0.74,3.2,"['In-Flight Entertainment', 'Extra Legroom']",2 Free Checked Bags
+Omni Air International,OY,0.75,3.4,"['Wi-Fi', 'Extra Legroom', 'Meals', 'In-Flight Entertainment']",No Free Bags
+Air 2000,DP,0.78,4.6,"['Wi-Fi', 'Meals', 'Extra Legroom']",1 Free Checked Bag
+Horizon Air,QX,0.88,4.7,"['Extra Legroom', 'In-Flight Entertainment']",2 Free Checked Bags
+Mesa Airlines,YV,0.82,3.2,"['Wi-Fi', 'Extra Legroom', 'In-Flight Entertainment', 'Meals']",No Free Bags
+Corsairfly,SS,0.7,4.3,"['In-Flight Entertainment', 'Wi-Fi', 'Meals', 'Extra Legroom']",No Free Bags
+American Eagle Airlines,MQ,0.92,3.8,"['In-Flight Entertainment', 'Meals', 'Wi-Fi', 'Extra Legroom']",2 Free Checked Bags
+Air Wisconsin,ZW,0.91,4.2,"['Wi-Fi', 'Extra Legroom', 'In-Flight Entertainment']",1 Free Checked Bag
+DB Air,XX,0.79,4.6,"['Extra Legroom', 'Wi-Fi']",2 Free Checked Bags
+AirTran Airways,FL,0.92,3.7,"['Wi-Fi', 'Meals', 'Extra Legroom', 'In-Flight Entertainment']",1 Free Checked Bag
+Icelandair (Inactive),FI,0.88,4.2,"['Meals', 'Wi-Fi', 'In-Flight Entertainment']",No Free Bags
+Casino Express,XP,0.72,3.4,"['In-Flight Entertainment', 'Meals', 'Extra Legroom', 'Wi-Fi']",No Free Bags
+Harmony Airways,HQ,0.83,4.2,"['Extra Legroom', 'Meals', 'In-Flight Entertainment', 'Wi-Fi']",No Free Bags
+Air Atlanta Icelandic,CC,0.74,3.7,"['Wi-Fi', 'Extra Legroom', 'Meals']",1 Free Checked Bag
+Air New Zealand,NZ,0.82,3.3,"['Meals', 'In-Flight Entertainment', 'Extra Legroom']",No Free Bags
+BelAir Airlines,BBB,0.8,3.0,"['Extra Legroom', 'Meals', 'In-Flight Entertainment', 'Wi-Fi']",2 Free Checked Bags
+Comair,OH,0.76,3.6,"['Extra Legroom', 'In-Flight Entertainment', 'Wi-Fi']",1 Free Checked Bag
+World Airways,WO,0.74,3.9,"['In-Flight Entertainment', 'Wi-Fi', 'Meals']",No Free Bags
+WestJet,WS,0.85,4.5,"['Meals', 'Wi-Fi']",2 Free Checked Bags
+Atlantic Southeast Airlines,EV,0.84,4.2,"['In-Flight Entertainment', 'Wi-Fi', 'Meals', 'Extra Legroom']",2 Free Checked Bags
+Independence Air,DH,0.83,4.0,"['In-Flight Entertainment', 'Wi-Fi']",1 Free Checked Bag
+Boeing Company,XX,0.83,4.7,"['Extra Legroom', 'Wi-Fi']",1 Free Checked Bag
+Air Canada Jazz,QK,0.72,5.0,"['Wi-Fi', 'Extra Legroom', 'Meals']",No Free Bags
+Qantas Airways,QF,0.9,4.5,"['Extra Legroom', 'Meals', 'In-Flight Entertainment']",2 Free Checked Bags
+Ameriflight,A8,0.75,3.0,"['Meals', 'Extra Legroom']",2 Free Checked Bags
+Spirit Airlines,NK,0.95,3.3,"['In-Flight Entertainment', 'Wi-Fi']",No Free Bags
+Xtra Airways,XP,0.83,4.2,"['Extra Legroom', 'In-Flight Entertainment', 'Meals', 'Wi-Fi']",1 Free Checked Bag
+Evergreen International Airlines,EZ,0.74,3.7,"['In-Flight Entertainment', 'Extra Legroom']",2 Free Checked Bags
+Aeromexico,AM,0.79,4.8,"['Extra Legroom', 'In-Flight Entertainment', 'Wi-Fi']",2 Free Checked Bags
+JetBlue Airways,B6,0.8,4.2,"['In-Flight Entertainment', 'Extra Legroom', 'Wi-Fi', 'Meals']",1 Free Checked Bag
+ExpressJet Airlines,XE,0.81,4.3,"['Extra Legroom', 'In-Flight Entertainment']",No Free Bags
+Virgin America,VX,0.82,4.6,"['Wi-Fi', 'Meals', 'Extra Legroom']",No Free Bags
+"Aer Lingus, Ltd.",EI,0.9,3.0,"['Extra Legroom', 'Wi-Fi', 'Meals', 'In-Flight Entertainment']",1 Free Checked Bag
+Jet Airways,9W,0.91,4.8,"['In-Flight Entertainment', 'Extra Legroom', 'Meals', 'Wi-Fi']",No Free Bags
+Emirates,EK,0.95,3.3,"['Meals', 'Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment']",1 Free Checked Bag
+Mesaba Airlines,XJ,0.75,4.2,"['Extra Legroom', 'In-Flight Entertainment', 'Wi-Fi', 'Meals']",2 Free Checked Bags
+Air Berlin,AB,0.89,3.8,"['In-Flight Entertainment', 'Meals', 'Extra Legroom']",1 Free Checked Bag
+Republic Airlines,RW,0.87,4.4,"['Meals', 'Extra Legroom', 'Wi-Fi']",No Free Bags
+Servisair,XX,0.71,4.6,"['Meals', 'Wi-Fi', 'In-Flight Entertainment', 'Extra Legroom']",No Free Bags
+Pacific Aviation,XX,0.71,3.6,"['In-Flight Entertainment', 'Wi-Fi']",2 Free Checked Bags
+Swiss International,LX,0.94,3.8,"['Wi-Fi', 'Meals', 'Extra Legroom']",2 Free Checked Bags
+LAN Peru,LP,0.8,4.0,"['Extra Legroom', 'In-Flight Entertainment', 'Wi-Fi', 'Meals']",No Free Bags
+Swissport USA,XX,0.93,3.0,"['Wi-Fi', 'In-Flight Entertainment', 'Extra Legroom']",No Free Bags
+XL Airways France,SE,0.89,3.5,"['In-Flight Entertainment', 'Wi-Fi']",1 Free Checked Bag
+China Eastern,MU,0.95,4.8,"['Meals', 'Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment']",1 Free Checked Bag
+SAS Airlines,SK,0.9,3.6,"['Wi-Fi', 'Meals']",2 Free Checked Bags
+"Atlas Air, Inc",5Y,0.85,4.3,"['Extra Legroom', 'Meals', 'Wi-Fi', 'In-Flight Entertainment']",1 Free Checked Bag
+Compass Airlines,CP,0.94,4.3,"['Wi-Fi', 'Extra Legroom', 'Meals', 'In-Flight Entertainment']",1 Free Checked Bag
+Etihad Airways,EY,0.75,3.8,"['In-Flight Entertainment', 'Wi-Fi', 'Meals', 'Extra Legroom']",2 Free Checked Bags
+China Southern,CZ,0.92,4.9,"['Wi-Fi', 'Extra Legroom', 'Meals', 'In-Flight Entertainment']",1 Free Checked Bag
+Turkish Airlines,TK,0.81,4.9,"['Meals', 'Wi-Fi']",1 Free Checked Bag
+"COPA Airlines, Inc.",CM,0.85,3.6,"['Meals', 'Wi-Fi', 'Extra Legroom']",No Free Bags
+Air India Limited,AI,0.79,4.6,"['Wi-Fi', 'Meals', 'Extra Legroom', 'In-Flight Entertainment']",2 Free Checked Bags
+Air Pacific Limited dba Fiji Airways,FJ,0.84,3.3,"['Extra Legroom', 'In-Flight Entertainment']",2 Free Checked Bags
+Jazz Aviation,QK,0.89,3.2,"['Meals', 'Wi-Fi', 'Extra Legroom', 'In-Flight Entertainment']",2 Free Checked Bags
+WOW Air,WW,0.72,5.0,"['Meals', 'Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment']",No Free Bags
+Volaris Airlines,Y4,0.78,3.2,"['Meals', 'In-Flight Entertainment', 'Wi-Fi']",No Free Bags
+Thomas Cook Airlines,MT,0.85,3.5,"['Wi-Fi', 'Meals', 'In-Flight Entertainment', 'Extra Legroom']",1 Free Checked Bag
+Trego Dugan Aviation,XX,0.82,4.2,"['In-Flight Entertainment', 'Wi-Fi']",2 Free Checked Bags
+ABC Aerolineas S.A. de C.V. dba Interjet,4O,0.84,4.3,"['In-Flight Entertainment', 'Meals', 'Extra Legroom']",2 Free Checked Bags
+Hong Kong Airlines Limited,HX,0.7,4.2,"['In-Flight Entertainment', 'Extra Legroom', 'Meals', 'Wi-Fi']",No Free Bags
+Iberia,IB,0.89,4.8,"['Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment']",1 Free Checked Bag
+French Bee,BF,0.8,3.5,"['Extra Legroom', 'Wi-Fi', 'In-Flight Entertainment', 'Meals']",2 Free Checked Bags
+Icelandair EHF,FI,0.91,4.6,"['In-Flight Entertainment', 'Extra Legroom', 'Meals', 'Wi-Fi']",No Free Bags
+Norwegian Air UK Ltd,LY,0.91,4.2,"['In-Flight Entertainment', 'Meals', 'Extra Legroom']",No Free Bags
+Air Italy S.P.A,XX,0.77,3.5,"['In-Flight Entertainment', 'Extra Legroom']",2 Free Checked Bags
+El Al Israel Airlines LTD.,XX,0.76,3.3,"['Meals', 'Wi-Fi', 'Extra Legroom']",2 Free Checked Bags
+TAP Air Portugal,TP,0.74,4.3,"['Extra Legroom', 'Wi-Fi']",2 Free Checked Bags
+Norwegian Air Shuttle ASA,XX,0.83,4.6,"['Wi-Fi', 'Meals', 'In-Flight Entertainment']",2 Free Checked Bags
+Qatar Airways,QR,0.87,3.4,"['Wi-Fi', 'In-Flight Entertainment', 'Meals']",No Free Bags
+Vietnam Airlines JSC,VN,0.75,3.7,"['Extra Legroom', 'In-Flight Entertainment', 'Meals', 'Wi-Fi']",2 Free Checked Bags
+"Flair Airlines, Ltd.",F8,0.87,4.6,"['Meals', 'Wi-Fi', 'In-Flight Entertainment']",1 Free Checked Bag
+Air Transat,TS,0.87,3.7,"['Extra Legroom', 'In-Flight Entertainment', 'Wi-Fi', 'Meals']",2 Free Checked Bags
+"Breeze Aviation Group, Inc.",MX,0.92,4.3,"['Extra Legroom', 'In-Flight Entertainment']",No Free Bags
+Condor Flugdienst GmbH,DE,0.87,4.2,"['Extra Legroom', 'In-Flight Entertainment']",No Free Bags
+"Samsic Airport America, LLC",XX,0.85,4.2,"['Extra Legroom', 'In-Flight Entertainment']",No Free Bags
+ZIPAIR Tokyo Inc,ZG,0.93,3.9,"['Extra Legroom', 'Meals']",No Free Bags
+ITA Airways,AZ,0.89,3.7,"['Wi-Fi', 'Extra Legroom']",No Free Bags
+"Norse Atlantic UK, Ltd.",Z0,0.83,4.0,"['In-Flight Entertainment', 'Meals', 'Wi-Fi']",No Free Bags
+Starlux Airlines Co. LTD,JX,0.91,4.7,"['Meals', 'In-Flight Entertainment', 'Wi-Fi', 'Extra Legroom']",2 Free Checked Bags
+"Envoy Air, Inc.",MQ,0.95,3.9,"['In-Flight Entertainment', 'Wi-Fi']",No Free Bags
+Porter Airlines (Canada) Limited,PD,0.83,3.2,"['Meals', 'Wi-Fi']",1 Free Checked Bag
+"Air Premia, Inc.",YP,0.77,4.5,"['Wi-Fi', 'In-Flight Entertainment', 'Extra Legroom', 'Meals']",1 Free Checked Bag
